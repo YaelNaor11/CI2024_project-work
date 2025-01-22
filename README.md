@@ -2,7 +2,7 @@
 
 This code implements a **symbolic regression** approach using **genetic programming (GP)**. It evolves mathematical expressions (trees) to fit a given dataset. Below is an overview of its key components:
 
--There are two source files of the project - one type .py and the other type .ipynb. I implemented the project on Google Colab.
+There are two source files of the project - one type .py and the other type .ipynb. I implemented the project on Google Colab.
 
 ## 1. Representation
 - Each individual is a tree composed of:
